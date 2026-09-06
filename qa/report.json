@@ -1,0 +1,775 @@
+{
+  "base": "http://localhost:4188/?qa=1",
+  "when": "2026-09-06T09:35:13.587Z",
+  "viewports": [
+    {
+      "name": "desktop-1440x900",
+      "stops": [
+        {
+          "label": "01-port",
+          "p": 0.02425373134328358,
+          "stats": {
+            "ok": true,
+            "min": 22,
+            "max": 238,
+            "mean": 190,
+            "colours": 171,
+            "range": 216
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/01-port.png"
+        },
+        {
+          "label": "02-boarding",
+          "p": 0.0671641791044776,
+          "stats": {
+            "ok": true,
+            "min": 22,
+            "max": 252,
+            "mean": 183,
+            "colours": 221,
+            "range": 230
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/02-boarding.png"
+        },
+        {
+          "label": "03-compass",
+          "p": 0.10634328358208953,
+          "stats": {
+            "ok": true,
+            "min": 27,
+            "max": 241,
+            "mean": 136,
+            "colours": 189,
+            "range": 214
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/03-compass.png"
+        },
+        {
+          "label": "04-the-bay",
+          "p": 0.15671641791044774,
+          "stats": {
+            "ok": true,
+            "min": 43,
+            "max": 255,
+            "mean": 82,
+            "colours": 117,
+            "range": 212
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/04-the-bay.png"
+        },
+        {
+          "label": "05-nets",
+          "p": 0.21455223880597013,
+          "stats": {
+            "ok": true,
+            "min": 28,
+            "max": 246,
+            "mean": 160,
+            "colours": 228,
+            "range": 218
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/05-nets.png"
+        },
+        {
+          "label": "06-the-catch",
+          "p": 0.26679104477611937,
+          "stats": {
+            "ok": true,
+            "min": 45,
+            "max": 249,
+            "mean": 200,
+            "colours": 174,
+            "range": 205
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/06-the-catch.png"
+        },
+        {
+          "label": "07-chilled-hold",
+          "p": 0.31156716417910446,
+          "stats": {
+            "ok": true,
+            "min": 30,
+            "max": 255,
+            "mean": 203,
+            "colours": 127,
+            "range": 225
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/07-chilled-hold.png"
+        },
+        {
+          "label": "08-return",
+          "p": 0.3507462686567164,
+          "stats": {
+            "ok": true,
+            "min": 47,
+            "max": 244,
+            "mean": 156,
+            "colours": 126,
+            "range": 197
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/08-return.png"
+        },
+        {
+          "label": "09-transfer",
+          "p": 0.38805970149253727,
+          "stats": {
+            "ok": true,
+            "min": 50,
+            "max": 243,
+            "mean": 203,
+            "colours": 124,
+            "range": 193
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/09-transfer.png"
+        },
+        {
+          "label": "10-plant",
+          "p": 0.42537313432835816,
+          "stats": {
+            "ok": true,
+            "min": 26,
+            "max": 255,
+            "mean": 216,
+            "colours": 117,
+            "range": 229
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/10-plant.png"
+        },
+        {
+          "label": "11-portions",
+          "p": 0.46268656716417905,
+          "stats": {
+            "ok": true,
+            "min": 32,
+            "max": 255,
+            "mean": 217,
+            "colours": 92,
+            "range": 223
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/11-portions.png"
+        },
+        {
+          "label": "12-ponds",
+          "p": 0.503731343283582,
+          "stats": {
+            "ok": true,
+            "min": 108,
+            "max": 241,
+            "mean": 176,
+            "colours": 61,
+            "range": 133
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/12-ponds.png"
+        },
+        {
+          "label": "13-forms",
+          "p": 0.548507462686567,
+          "stats": {
+            "ok": true,
+            "min": 39,
+            "max": 245,
+            "mean": 179,
+            "colours": 80,
+            "range": 206
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/13-forms.png"
+        },
+        {
+          "label": "14-grading",
+          "p": 0.591417910447761,
+          "stats": {
+            "ok": true,
+            "min": 38,
+            "max": 255,
+            "mean": 216,
+            "colours": 68,
+            "range": 217
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/14-grading.png"
+        },
+        {
+          "label": "15-qc",
+          "p": 0.6399253731343282,
+          "stats": {
+            "ok": true,
+            "min": 34,
+            "max": 254,
+            "mean": 230,
+            "colours": 52,
+            "range": 220
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/15-qc.png"
+        },
+        {
+          "label": "16-freezing",
+          "p": 0.6921641791044775,
+          "stats": {
+            "ok": true,
+            "min": 31,
+            "max": 255,
+            "mean": 156,
+            "colours": 41,
+            "range": 224
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/16-freezing.png"
+        },
+        {
+          "label": "17-cold-store",
+          "p": 0.7388059701492535,
+          "stats": {
+            "ok": true,
+            "min": 93,
+            "max": 255,
+            "mean": 199,
+            "colours": 150,
+            "range": 162
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/17-cold-store.png"
+        },
+        {
+          "label": "18-documents",
+          "p": 0.7817164179104477,
+          "stats": {
+            "ok": true,
+            "min": 22,
+            "max": 255,
+            "mean": 199,
+            "colours": 101,
+            "range": 233
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/18-documents.png"
+        },
+        {
+          "label": "19-reefer",
+          "p": 0.8227611940298506,
+          "stats": {
+            "ok": true,
+            "min": 124,
+            "max": 249,
+            "mean": 202,
+            "colours": 54,
+            "range": 125
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/19-reefer.png"
+        },
+        {
+          "label": "20-vessel",
+          "p": 0.8638059701492536,
+          "stats": {
+            "ok": true,
+            "min": 49,
+            "max": 249,
+            "mean": 84,
+            "colours": 217,
+            "range": 200
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/20-vessel.png"
+        },
+        {
+          "label": "21-routes",
+          "p": 0.9085820895522387,
+          "stats": {
+            "ok": true,
+            "min": 81,
+            "max": 239,
+            "mean": 204,
+            "colours": 98,
+            "range": 158
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/21-routes.png"
+        },
+        {
+          "label": "22-rfq",
+          "p": 0.9664179104477613,
+          "stats": {
+            "ok": true,
+            "min": 66,
+            "max": 234,
+            "mean": 195,
+            "colours": 91,
+            "range": 167
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/desktop-1440x900/22-rfq.png"
+        }
+      ],
+      "consoleErrors": [],
+      "failedReq": []
+    },
+    {
+      "name": "wide-1920x1080",
+      "stops": [
+        {
+          "label": "01-port",
+          "p": 0.02425373134328358,
+          "stats": {
+            "ok": true,
+            "min": 22,
+            "max": 238,
+            "mean": 190,
+            "colours": 171,
+            "range": 215
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/01-port.png"
+        },
+        {
+          "label": "04-the-bay",
+          "p": 0.15671641791044774,
+          "stats": {
+            "ok": true,
+            "min": 44,
+            "max": 255,
+            "mean": 86,
+            "colours": 111,
+            "range": 211
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/04-the-bay.png"
+        },
+        {
+          "label": "07-chilled-hold",
+          "p": 0.31156716417910446,
+          "stats": {
+            "ok": true,
+            "min": 29,
+            "max": 255,
+            "mean": 203,
+            "colours": 120,
+            "range": 226
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/07-chilled-hold.png"
+        },
+        {
+          "label": "10-plant",
+          "p": 0.42537313432835816,
+          "stats": {
+            "ok": true,
+            "min": 24,
+            "max": 255,
+            "mean": 217,
+            "colours": 112,
+            "range": 231
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/10-plant.png"
+        },
+        {
+          "label": "13-forms",
+          "p": 0.548507462686567,
+          "stats": {
+            "ok": true,
+            "min": 44,
+            "max": 246,
+            "mean": 180,
+            "colours": 85,
+            "range": 202
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/13-forms.png"
+        },
+        {
+          "label": "16-freezing",
+          "p": 0.6921641791044775,
+          "stats": {
+            "ok": true,
+            "min": 33,
+            "max": 255,
+            "mean": 154,
+            "colours": 40,
+            "range": 222
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/16-freezing.png"
+        },
+        {
+          "label": "19-reefer",
+          "p": 0.8227611940298506,
+          "stats": {
+            "ok": true,
+            "min": 115,
+            "max": 250,
+            "mean": 201,
+            "colours": 57,
+            "range": 135
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/19-reefer.png"
+        },
+        {
+          "label": "22-rfq",
+          "p": 0.9664179104477613,
+          "stats": {
+            "ok": true,
+            "min": 65,
+            "max": 235,
+            "mean": 197,
+            "colours": 98,
+            "range": 170
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/wide-1920x1080/22-rfq.png"
+        }
+      ],
+      "consoleErrors": [],
+      "failedReq": []
+    },
+    {
+      "name": "tablet-834x1194",
+      "stops": [
+        {
+          "label": "01-port",
+          "p": 0.02425373134328358,
+          "stats": {
+            "ok": true,
+            "min": 21,
+            "max": 238,
+            "mean": 188,
+            "colours": 176,
+            "range": 218
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/01-port.png"
+        },
+        {
+          "label": "04-the-bay",
+          "p": 0.15671641791044774,
+          "stats": {
+            "ok": true,
+            "min": 44,
+            "max": 255,
+            "mean": 86,
+            "colours": 139,
+            "range": 211
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/04-the-bay.png"
+        },
+        {
+          "label": "07-chilled-hold",
+          "p": 0.31156716417910446,
+          "stats": {
+            "ok": true,
+            "min": 35,
+            "max": 255,
+            "mean": 202,
+            "colours": 116,
+            "range": 220
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/07-chilled-hold.png"
+        },
+        {
+          "label": "10-plant",
+          "p": 0.42537313432835816,
+          "stats": {
+            "ok": true,
+            "min": 35,
+            "max": 255,
+            "mean": 208,
+            "colours": 107,
+            "range": 220
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/10-plant.png"
+        },
+        {
+          "label": "13-forms",
+          "p": 0.548507462686567,
+          "stats": {
+            "ok": true,
+            "min": 47,
+            "max": 245,
+            "mean": 178,
+            "colours": 92,
+            "range": 199
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/13-forms.png"
+        },
+        {
+          "label": "16-freezing",
+          "p": 0.6921641791044775,
+          "stats": {
+            "ok": true,
+            "min": 31,
+            "max": 255,
+            "mean": 165,
+            "colours": 41,
+            "range": 224
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/16-freezing.png"
+        },
+        {
+          "label": "19-reefer",
+          "p": 0.8227611940298506,
+          "stats": {
+            "ok": true,
+            "min": 86,
+            "max": 250,
+            "mean": 208,
+            "colours": 40,
+            "range": 164
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/19-reefer.png"
+        },
+        {
+          "label": "22-rfq",
+          "p": 0.9664179104477613,
+          "stats": {
+            "ok": true,
+            "min": 64,
+            "max": 235,
+            "mean": 170,
+            "colours": 107,
+            "range": 171
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/tablet-834x1194/22-rfq.png"
+        }
+      ],
+      "consoleErrors": [],
+      "failedReq": []
+    },
+    {
+      "name": "mobile-390x844",
+      "stops": [
+        {
+          "label": "01-port",
+          "p": 0.02425373134328358,
+          "stats": {
+            "ok": true,
+            "min": 21,
+            "max": 238,
+            "mean": 189,
+            "colours": 148,
+            "range": 217
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/01-port.png"
+        },
+        {
+          "label": "04-the-bay",
+          "p": 0.15671641791044774,
+          "stats": {
+            "ok": true,
+            "min": 45,
+            "max": 235,
+            "mean": 86,
+            "colours": 146,
+            "range": 190
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/04-the-bay.png"
+        },
+        {
+          "label": "07-chilled-hold",
+          "p": 0.31156716417910446,
+          "stats": {
+            "ok": true,
+            "min": 35,
+            "max": 255,
+            "mean": 199,
+            "colours": 114,
+            "range": 220
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/07-chilled-hold.png"
+        },
+        {
+          "label": "10-plant",
+          "p": 0.42537313432835816,
+          "stats": {
+            "ok": true,
+            "min": 37,
+            "max": 255,
+            "mean": 208,
+            "colours": 94,
+            "range": 218
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/10-plant.png"
+        },
+        {
+          "label": "13-forms",
+          "p": 0.548507462686567,
+          "stats": {
+            "ok": true,
+            "min": 47,
+            "max": 246,
+            "mean": 178,
+            "colours": 83,
+            "range": 199
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/13-forms.png"
+        },
+        {
+          "label": "16-freezing",
+          "p": 0.6921641791044775,
+          "stats": {
+            "ok": true,
+            "min": 33,
+            "max": 255,
+            "mean": 160,
+            "colours": 40,
+            "range": 222
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/16-freezing.png"
+        },
+        {
+          "label": "19-reefer",
+          "p": 0.8227611940298506,
+          "stats": {
+            "ok": true,
+            "min": 85,
+            "max": 250,
+            "mean": 211,
+            "colours": 27,
+            "range": 165
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/19-reefer.png"
+        },
+        {
+          "label": "22-rfq",
+          "p": 0.9664179104477613,
+          "stats": {
+            "ok": true,
+            "min": 64,
+            "max": 235,
+            "mean": 162,
+            "colours": 102,
+            "range": 171
+          },
+          "overlap": [],
+          "overflowX": false,
+          "shot": "qa/shots/mobile-390x844/22-rfq.png"
+        }
+      ],
+      "consoleErrors": [],
+      "failedReq": []
+    }
+  ],
+  "errors": [],
+  "terms": {
+    "Skylark Exim": true,
+    "Two Origins. One Standard.": true,
+    "Bay of Bengal": true,
+    "Visakhapatnam": true,
+    "Andhra": true,
+    "Swordfish": true,
+    "Tuna": true,
+    "Shrimp": true,
+    "HOSO": true,
+    "HLSO": true,
+    "PUD": true,
+    "PTO": true,
+    "10/20": true,
+    "21/25": true,
+    "26/30": true,
+    "31/40": true,
+    "41/50": true,
+    "HACCP": true,
+    "EIC": true,
+    "Nitrofurans": true,
+    "Chloramphenicol": true,
+    "Tetracyclines": true,
+    "EU and US": true,
+    "IQF": true,
+    "Block freezing": true,
+    "Blast freezing": true,
+    "glaze": true,
+    "700 pallets": true,
+    "Health certificate": true,
+    "Packing list": true,
+    "Certificate of origin": true,
+    "Residue certificate": true,
+    "Compliance records": true,
+    "Reefer": true,
+    "Request export quote": true
+  },
+  "verdict": "PASS",
+  "rfq": {
+    "visible": true,
+    "blockedEmpty": true,
+    "errorsAfterFill": 0
+  },
+  "summary": {
+    "blanks": [],
+    "overlaps": [],
+    "missingTerms": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  }
+}
