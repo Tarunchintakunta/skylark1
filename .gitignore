@@ -1,0 +1,6 @@
+# skylark-site is already its own git repo pushed to
+# github.com/Tarunchintakunta/skylark-exim-cinematic.git
+skylark-site/
+
+# Screen recordings exceed GitHub's 100MB per-file limit
+*.mov
