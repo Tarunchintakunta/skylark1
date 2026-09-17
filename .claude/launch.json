@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "skylark-preview", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "skylark-site", "run", "preview", "--", "--host", "127.0.0.1"], "port": 4173 }
+  ]
+}
